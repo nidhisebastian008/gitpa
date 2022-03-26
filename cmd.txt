@@ -1,0 +1,18 @@
+git branch -b branch-name
+
+git config --global core.editor "path to editor"
+
+git config commit.template "path"
+
+git log
+
+cat .gitconfig
+
+git log -n 5 //recent 5 commit
+	--since
+	--until
+	author
+	grep
+	
+
+
